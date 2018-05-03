@@ -1,3 +1,4 @@
+//Author:Christopher Rey Almaraz
 #include <iostream>
 #include <string>
 #include "student.h"
